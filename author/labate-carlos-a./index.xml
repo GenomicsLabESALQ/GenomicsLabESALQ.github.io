@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Labate, Carlos A. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/labate-carlos-a./</link>
-      <atom:link href="amos.esalq.usp.br/author/labate-carlos-a./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/labate-carlos-a./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/labate-carlos-a./index.xml" rel="self" type="application/rss+xml" />
     <description>Labate, Carlos A.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Labate, Carlos A.</title>
-      <link>amos.esalq.usp.br/author/labate-carlos-a./</link>
+      <link>https://genomicslabesalq.github.io/author/labate-carlos-a./</link>
     </image>
     
     <item>
       <title>Metabolome Dynamics of Smutted Sugarcane Reveals Mechanisms Involved in Disease Progression and Whip Emission</title>
-      <link>amos.esalq.usp.br/publication/schaker_2017/</link>
+      <link>https://genomicslabesalq.github.io/publication/schaker_2017/</link>
       <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/schaker_2017/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/schaker_2017/</guid>
       <description></description>
     </item>
     

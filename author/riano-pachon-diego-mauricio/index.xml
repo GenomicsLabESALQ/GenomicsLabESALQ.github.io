@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Riaño Pachón, Diego Mauricio | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/riano-pachon-diego-mauricio/</link>
-      <atom:link href="amos.esalq.usp.br/author/riano-pachon-diego-mauricio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/riano-pachon-diego-mauricio/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/riano-pachon-diego-mauricio/index.xml" rel="self" type="application/rss+xml" />
     <description>Riaño Pachón, Diego Mauricio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Riaño Pachón, Diego Mauricio</title>
-      <link>amos.esalq.usp.br/author/riano-pachon-diego-mauricio/</link>
+      <link>https://genomicslabesalq.github.io/author/riano-pachon-diego-mauricio/</link>
     </image>
     
     <item>
       <title>Revealing the high variability on nonconserved core and mobile elements of Austropuccinia psidii and other rust mitochondrial genomes</title>
-      <link>amos.esalq.usp.br/publication/de_almeida2021/</link>
+      <link>https://genomicslabesalq.github.io/publication/de_almeida2021/</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/de_almeida2021/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/de_almeida2021/</guid>
       <description></description>
     </item>
     

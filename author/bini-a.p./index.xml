@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bini, A.P. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/bini-a.p./</link>
-      <atom:link href="amos.esalq.usp.br/author/bini-a.p./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/bini-a.p./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/bini-a.p./index.xml" rel="self" type="application/rss+xml" />
     <description>Bini, A.P.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Bini, A.P.</title>
-      <link>amos.esalq.usp.br/author/bini-a.p./</link>
+      <link>https://genomicslabesalq.github.io/author/bini-a.p./</link>
     </image>
     
     <item>
       <title>Molecular, biochemical and metabolomics analyses reveal constitutive and pathogen-induced defense responses of two sugarcane contrasting genotypes against leaf scald disease</title>
-      <link>amos.esalq.usp.br/publication/bini_molecular_2023/</link>
+      <link>https://genomicslabesalq.github.io/publication/bini_molecular_2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/bini_molecular_2023/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/bini_molecular_2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential responses of genes and enzymes associated with ROS protective responses in the sugarcane smut fungus</title>
-      <link>amos.esalq.usp.br/publication/peters_2020/</link>
+      <link>https://genomicslabesalq.github.io/publication/peters_2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/peters_2020/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/peters_2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | Genomics Lab</title>
-    <link>amos.esalq.usp.br/post/</link>
-      <atom:link href="amos.esalq.usp.br/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/post/</link>
+      <atom:link href="https://genomicslabesalq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Latest News</title>
-      <link>amos.esalq.usp.br/post/</link>
+      <link>https://genomicslabesalq.github.io/post/</link>
     </image>
     
     <item>
       <title>Transcriptional responses of sugarcane varieties to Pratylenchus zeae infection</title>
-      <link>amos.esalq.usp.br/post/25-09-03-preprint_confort/</link>
+      <link>https://genomicslabesalq.github.io/post/25-09-03-preprint_confort/</link>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/post/25-09-03-preprint_confort/</guid>
+      <guid>https://genomicslabesalq.github.io/post/25-09-03-preprint_confort/</guid>
       <description>&lt;p&gt;New preprint from our group now available on bioRxiv! Check out the abstract in this post.&lt;/p&gt;
 &lt;p&gt;Our group has just published a preprint on August 30th presenting novel results on the transcriptional responses of two sugarcane varieties to infection by the nematode Pratylenchus zeae. The work is now available on bioRxiv!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;

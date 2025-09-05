@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reis, Amanda Maria Sena | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/reis-amanda-maria-sena/</link>
-      <atom:link href="amos.esalq.usp.br/author/reis-amanda-maria-sena/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/reis-amanda-maria-sena/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/reis-amanda-maria-sena/index.xml" rel="self" type="application/rss+xml" />
     <description>Reis, Amanda Maria Sena</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Reis, Amanda Maria Sena</title>
-      <link>amos.esalq.usp.br/author/reis-amanda-maria-sena/</link>
+      <link>https://genomicslabesalq.github.io/author/reis-amanda-maria-sena/</link>
     </image>
     
     <item>
       <title>Didelphis albiventris: an overview of unprecedented transcriptome sequencing of the white-eared opossum</title>
-      <link>amos.esalq.usp.br/publication/dos_santos_2019/</link>
+      <link>https://genomicslabesalq.github.io/publication/dos_santos_2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/dos_santos_2019/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/dos_santos_2019/</guid>
       <description></description>
     </item>
     

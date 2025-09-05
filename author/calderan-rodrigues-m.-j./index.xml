@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calderan-Rodrigues, M. J. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/calderan-rodrigues-m.-j./</link>
-      <atom:link href="amos.esalq.usp.br/author/calderan-rodrigues-m.-j./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/calderan-rodrigues-m.-j./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/calderan-rodrigues-m.-j./index.xml" rel="self" type="application/rss+xml" />
     <description>Calderan-Rodrigues, M. J.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Calderan-Rodrigues, M. J.</title>
-      <link>amos.esalq.usp.br/author/calderan-rodrigues-m.-j./</link>
+      <link>https://genomicslabesalq.github.io/author/calderan-rodrigues-m.-j./</link>
     </image>
     
     <item>
       <title>Proteome characterization of the cell wall, apoplast and extracellular space of sugarcane infected with Sporisorium scitamineum, the causal agent of smut disease</title>
-      <link>amos.esalq.usp.br/publication/monteirovitorello_20192/</link>
+      <link>https://genomicslabesalq.github.io/publication/monteirovitorello_20192/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/monteirovitorello_20192/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/monteirovitorello_20192/</guid>
       <description></description>
     </item>
     

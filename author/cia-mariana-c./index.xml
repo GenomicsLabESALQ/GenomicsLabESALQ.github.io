@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cia, Mariana C. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/cia-mariana-c./</link>
-      <atom:link href="amos.esalq.usp.br/author/cia-mariana-c./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/cia-mariana-c./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/cia-mariana-c./index.xml" rel="self" type="application/rss+xml" />
     <description>Cia, Mariana C.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Cia, Mariana C.</title>
-      <link>amos.esalq.usp.br/author/cia-mariana-c./</link>
+      <link>https://genomicslabesalq.github.io/author/cia-mariana-c./</link>
     </image>
     
     <item>
       <title>Characterization of genes responsive to osmotic and oxidative stresses of the sugarcane bacterial pathogen Leifsonia xyli subsp. xyli</title>
-      <link>amos.esalq.usp.br/publication/faria_2020/</link>
+      <link>https://genomicslabesalq.github.io/publication/faria_2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/faria_2020/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/faria_2020/</guid>
       <description></description>
     </item>
     

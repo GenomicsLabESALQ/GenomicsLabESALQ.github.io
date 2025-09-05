@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gustavo Husein | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/gustavo-husein/</link>
-      <atom:link href="amos.esalq.usp.br/author/gustavo-husein/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/gustavo-husein/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/gustavo-husein/index.xml" rel="self" type="application/rss+xml" />
     <description>Gustavo Husein</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/author/gustavo-husein/avatar_hu_5f8539e49bacb44c.jpeg</url>
+      <url>https://genomicslabesalq.github.io/author/gustavo-husein/avatar_hu_5f8539e49bacb44c.jpeg</url>
       <title>Gustavo Husein</title>
-      <link>amos.esalq.usp.br/author/gustavo-husein/</link>
+      <link>https://genomicslabesalq.github.io/author/gustavo-husein/</link>
     </image>
     
     <item>
       <title>Gustavo Husein</title>
-      <link>amos.esalq.usp.br/author/gustavo-husein/</link>
+      <link>https://genomicslabesalq.github.io/author/gustavo-husein/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/author/gustavo-husein/</guid>
+      <guid>https://genomicslabesalq.github.io/author/gustavo-husein/</guid>
       <description>&lt;p&gt;As a bioinformatician, I am driven to understand the biological causes of how plants adapt to environmental stress. My work involves applying computational and statistical tools to genomic datasets to uncover the key genes and molecular players that govern plant-pathogen interactions and confer resistance to abiotic pressures.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Integrative Multi-Omics Analysis Reveals Stress-Specific Molecular Architectures in Soybean under Drought and Rust Infection</title>
-      <link>amos.esalq.usp.br/publication/husein_2025_1/</link>
+      <link>https://genomicslabesalq.github.io/publication/husein_2025_1/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/husein_2025_1/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/husein_2025_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome Profiling of Resistance Genes Analogs in Soybean’s Cross-Tolerance to Water Limitation and Rust Stress</title>
-      <link>amos.esalq.usp.br/publication/husein_20252/</link>
+      <link>https://genomicslabesalq.github.io/publication/husein_20252/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/husein_20252/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/husein_20252/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Water Limitation Causes Early-Stage Metabolic Perturbation in the Interaction of Soybean and the Causal Agent of Asian Soybean Rust</title>
-      <link>amos.esalq.usp.br/publication/castro-moretti_water_2024/</link>
+      <link>https://genomicslabesalq.github.io/publication/castro-moretti_water_2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/castro-moretti_water_2024/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/castro-moretti_water_2024/</guid>
       <description></description>
     </item>
     

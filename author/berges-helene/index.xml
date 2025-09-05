@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berges, Helene | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/berges-helene/</link>
-      <atom:link href="amos.esalq.usp.br/author/berges-helene/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/berges-helene/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/berges-helene/index.xml" rel="self" type="application/rss+xml" />
     <description>Berges, Helene</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Berges, Helene</title>
-      <link>amos.esalq.usp.br/author/berges-helene/</link>
+      <link>https://genomicslabesalq.github.io/author/berges-helene/</link>
     </image>
     
     <item>
       <title>A genome sequence resource for the genus Passiflora , the genome of the wild diploid species Passiflora organensis</title>
-      <link>amos.esalq.usp.br/publication/costa_2021/</link>
+      <link>https://genomicslabesalq.github.io/publication/costa_2021/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/costa_2021/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/costa_2021/</guid>
       <description></description>
     </item>
     

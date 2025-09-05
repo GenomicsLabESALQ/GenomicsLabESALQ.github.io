@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gustavo Schiavone Crestana | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/gustavo-schiavone-crestana/</link>
-      <atom:link href="amos.esalq.usp.br/author/gustavo-schiavone-crestana/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/gustavo-schiavone-crestana/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/gustavo-schiavone-crestana/index.xml" rel="self" type="application/rss+xml" />
     <description>Gustavo Schiavone Crestana</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/author/gustavo-schiavone-crestana/avatar_hu_56b77e0fb82f71bd.jpeg</url>
+      <url>https://genomicslabesalq.github.io/author/gustavo-schiavone-crestana/avatar_hu_56b77e0fb82f71bd.jpeg</url>
       <title>Gustavo Schiavone Crestana</title>
-      <link>amos.esalq.usp.br/author/gustavo-schiavone-crestana/</link>
+      <link>https://genomicslabesalq.github.io/author/gustavo-schiavone-crestana/</link>
     </image>
     
     <item>
       <title>Complete Chromosome-Scale Genome Sequence Resource for Sporisorium panici-leucophaei , the Causal Agent of Sourgrass Smut Disease</title>
-      <link>amos.esalq.usp.br/publication/crestana_2021/</link>
+      <link>https://genomicslabesalq.github.io/publication/crestana_2021/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/crestana_2021/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/crestana_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gustavo Schiavone Crestana</title>
-      <link>amos.esalq.usp.br/author/gustavo-schiavone-crestana/</link>
+      <link>https://genomicslabesalq.github.io/author/gustavo-schiavone-crestana/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/author/gustavo-schiavone-crestana/</guid>
+      <guid>https://genomicslabesalq.github.io/author/gustavo-schiavone-crestana/</guid>
       <description>&lt;p&gt;I am a biologist with a degree from the Luiz de Queiroz College of Agriculture (ESALQ/USP). My academic background is in molecular biology, genetics, and bioinformatics, with research experience in fungal genomics, effector genes, resistance gene analogs (RGAs), and plant–pathogen interactions. During my Master’s, I investigated the Sporisorium panici-leucophaei × sourgrass pathosystem. Currently, as a Ph.D. candidate, my work focuses on transcriptomic (RNA-Seq) data analysis and the integration of omic data into biological networks to study plant–fungus interactions and the role of resistance genes, with a sandwich period at the University of California, Davis. I also hold an MBA in Agribusiness (ESALQ/USP, 2023), where I studied the strategic alignment of Embrapa with the UN 2030 Agenda for Sustainable Development.&lt;/p&gt;
 </description>
     </item>

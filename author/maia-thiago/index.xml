@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maia, Thiago | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/maia-thiago/</link>
-      <atom:link href="amos.esalq.usp.br/author/maia-thiago/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/maia-thiago/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/maia-thiago/index.xml" rel="self" type="application/rss+xml" />
     <description>Maia, Thiago</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Maia, Thiago</title>
-      <link>amos.esalq.usp.br/author/maia-thiago/</link>
+      <link>https://genomicslabesalq.github.io/author/maia-thiago/</link>
     </image>
     
     <item>
       <title>Transcriptome Profiling of Resistance Genes Analogs in Soybean’s Cross-Tolerance to Water Limitation and Rust Stress</title>
-      <link>amos.esalq.usp.br/publication/husein_20252/</link>
+      <link>https://genomicslabesalq.github.io/publication/husein_20252/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/husein_20252/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/husein_20252/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Potential Surrogate Systems for Studying the Early Steps of the Sporisorium scitamineum Pathogenesis</title>
-      <link>amos.esalq.usp.br/publication/marrafon_2024/</link>
+      <link>https://genomicslabesalq.github.io/publication/marrafon_2024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/marrafon_2024/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/marrafon_2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bacterial Type Three Secretion-Based Delivery System for Functional Characterization of Sporisorium scitamineum Plant Immune Suppressing Effector Proteins</title>
-      <link>amos.esalq.usp.br/publication/maia_2022/</link>
+      <link>https://genomicslabesalq.github.io/publication/maia_2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/maia_2022/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/maia_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leaping into the Unknown World of Sporisorium scitamineum Candidate Effectors</title>
-      <link>amos.esalq.usp.br/publication/teixeira-silva_2020/</link>
+      <link>https://genomicslabesalq.github.io/publication/teixeira-silva_2020/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/teixeira-silva_2020/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/teixeira-silva_2020/</guid>
       <description></description>
     </item>
     

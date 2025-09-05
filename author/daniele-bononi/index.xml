@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniele Bononi | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/daniele-bononi/</link>
-      <atom:link href="amos.esalq.usp.br/author/daniele-bononi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/daniele-bononi/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/daniele-bononi/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniele Bononi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>amos.esalq.usp.br/author/daniele-bononi/avatar_hu_74acca48af1a9781.jpeg</url>
+      <url>https://genomicslabesalq.github.io/author/daniele-bononi/avatar_hu_74acca48af1a9781.jpeg</url>
       <title>Daniele Bononi</title>
-      <link>amos.esalq.usp.br/author/daniele-bononi/</link>
+      <link>https://genomicslabesalq.github.io/author/daniele-bononi/</link>
     </image>
     
     <item>
       <title>Daniele Bononi</title>
-      <link>amos.esalq.usp.br/author/daniele-bononi/</link>
+      <link>https://genomicslabesalq.github.io/author/daniele-bononi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/author/daniele-bononi/</guid>
+      <guid>https://genomicslabesalq.github.io/author/daniele-bononi/</guid>
       <description>&lt;p&gt;I earned my Master of Science degree from the PPG - Plant Genetics and Breeding at ESALQ-University of São Paulo. My interests lie in the areas of Plant Biology, Molecular Biology, and Plant Physiology. I have worked with Plant Biotechnology, covering Proteomics, Metabolomics, and Molecular Biology techniques. I am currently dedicated to studying the function of specific effectors of Sporisorium scitamineum in sugarcane smut pathogenesis, investigating their molecular mechanisms of action and the host proteins they interact with.&lt;/p&gt;
 </description>
     </item>

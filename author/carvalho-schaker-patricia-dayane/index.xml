@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carvalho Schaker, Patricia Dayane | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/carvalho-schaker-patricia-dayane/</link>
-      <atom:link href="amos.esalq.usp.br/author/carvalho-schaker-patricia-dayane/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/carvalho-schaker-patricia-dayane/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/carvalho-schaker-patricia-dayane/index.xml" rel="self" type="application/rss+xml" />
     <description>Carvalho Schaker, Patricia Dayane</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Carvalho Schaker, Patricia Dayane</title>
-      <link>amos.esalq.usp.br/author/carvalho-schaker-patricia-dayane/</link>
+      <link>https://genomicslabesalq.github.io/author/carvalho-schaker-patricia-dayane/</link>
     </image>
     
     <item>
       <title>Progress in understanding fungal diseases affecting sugarcane: smut</title>
-      <link>amos.esalq.usp.br/publication/university_2018/</link>
+      <link>https://genomicslabesalq.github.io/publication/university_2018/</link>
       <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/university_2018/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/university_2018/</guid>
       <description></description>
     </item>
     

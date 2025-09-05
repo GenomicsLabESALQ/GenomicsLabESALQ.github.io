@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moraes, N. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/moraes-n./</link>
-      <atom:link href="amos.esalq.usp.br/author/moraes-n./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/moraes-n./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/moraes-n./index.xml" rel="self" type="application/rss+xml" />
     <description>Moraes, N.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Moraes, N.</title>
-      <link>amos.esalq.usp.br/author/moraes-n./</link>
+      <link>https://genomicslabesalq.github.io/author/moraes-n./</link>
     </image>
     
     <item>
       <title>Differential responses of genes and enzymes associated with ROS protective responses in the sugarcane smut fungus</title>
-      <link>amos.esalq.usp.br/publication/peters_2020/</link>
+      <link>https://genomicslabesalq.github.io/publication/peters_2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/peters_2020/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/peters_2020/</guid>
       <description></description>
     </item>
     

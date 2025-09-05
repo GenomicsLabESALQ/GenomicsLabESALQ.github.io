@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Almeida, J.R. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/almeida-j.r./</link>
-      <atom:link href="amos.esalq.usp.br/author/almeida-j.r./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/almeida-j.r./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/almeida-j.r./index.xml" rel="self" type="application/rss+xml" />
     <description>Almeida, J.R.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Almeida, J.R.</title>
-      <link>amos.esalq.usp.br/author/almeida-j.r./</link>
+      <link>https://genomicslabesalq.github.io/author/almeida-j.r./</link>
     </image>
     
     <item>
       <title>Sporisorium scitamineum colonisation of sugarcane genotypes susceptible and resistant to smut revealed by GFP</title>
-      <link>amos.esalq.usp.br/publication/carvalho_sporisorium_2016/</link>
+      <link>https://genomicslabesalq.github.io/publication/carvalho_sporisorium_2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/carvalho_sporisorium_2016/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/carvalho_sporisorium_2016/</guid>
       <description></description>
     </item>
     

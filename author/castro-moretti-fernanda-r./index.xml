@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Castro-Moretti, Fernanda R. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/castro-moretti-fernanda-r./</link>
-      <atom:link href="amos.esalq.usp.br/author/castro-moretti-fernanda-r./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/castro-moretti-fernanda-r./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/castro-moretti-fernanda-r./index.xml" rel="self" type="application/rss+xml" />
     <description>Castro-Moretti, Fernanda R.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Castro-Moretti, Fernanda R.</title>
-      <link>amos.esalq.usp.br/author/castro-moretti-fernanda-r./</link>
+      <link>https://genomicslabesalq.github.io/author/castro-moretti-fernanda-r./</link>
     </image>
     
     <item>
       <title>Integrative Multi-Omics Analysis Reveals Stress-Specific Molecular Architectures in Soybean under Drought and Rust Infection</title>
-      <link>amos.esalq.usp.br/publication/husein_2025_1/</link>
+      <link>https://genomicslabesalq.github.io/publication/husein_2025_1/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/husein_2025_1/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/husein_2025_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome Profiling of Resistance Genes Analogs in Soybean’s Cross-Tolerance to Water Limitation and Rust Stress</title>
-      <link>amos.esalq.usp.br/publication/husein_20252/</link>
+      <link>https://genomicslabesalq.github.io/publication/husein_20252/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/husein_20252/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/husein_20252/</guid>
       <description></description>
     </item>
     

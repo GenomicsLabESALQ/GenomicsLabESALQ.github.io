@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>João Vitor Ferro Mazzei | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/joao-vitor-ferro-mazzei/</link>
-      <atom:link href="amos.esalq.usp.br/author/joao-vitor-ferro-mazzei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/joao-vitor-ferro-mazzei/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/joao-vitor-ferro-mazzei/index.xml" rel="self" type="application/rss+xml" />
     <description>João Vitor Ferro Mazzei</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>amos.esalq.usp.br/author/joao-vitor-ferro-mazzei/avatar_hu_bd779389a5b17520.jpeg</url>
+      <url>https://genomicslabesalq.github.io/author/joao-vitor-ferro-mazzei/avatar_hu_bd779389a5b17520.jpeg</url>
       <title>João Vitor Ferro Mazzei</title>
-      <link>amos.esalq.usp.br/author/joao-vitor-ferro-mazzei/</link>
+      <link>https://genomicslabesalq.github.io/author/joao-vitor-ferro-mazzei/</link>
     </image>
     
     <item>
       <title>João Vitor Ferro Mazzei</title>
-      <link>amos.esalq.usp.br/author/joao-vitor-ferro-mazzei/</link>
+      <link>https://genomicslabesalq.github.io/author/joao-vitor-ferro-mazzei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/author/joao-vitor-ferro-mazzei/</guid>
+      <guid>https://genomicslabesalq.github.io/author/joao-vitor-ferro-mazzei/</guid>
       <description>&lt;p&gt;I am a biologist with a background in molecular biology and genetics, with experience in functional analyses of plant–pathogen interactions. My current research focuses on the molecular mechanisms underlying the interaction between sugarcane and the biotrophic fungus Sporisorium scitamineum , including the structural and functional characterization of candidate effector proteins and their interactions with plant proteins.&lt;/p&gt;
 </description>
     </item>

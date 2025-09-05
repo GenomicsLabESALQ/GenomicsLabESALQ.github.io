@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jéssica Fernanda Mendes | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/jessica-fernanda-mendes/</link>
-      <atom:link href="amos.esalq.usp.br/author/jessica-fernanda-mendes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/jessica-fernanda-mendes/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/jessica-fernanda-mendes/index.xml" rel="self" type="application/rss+xml" />
     <description>Jéssica Fernanda Mendes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>amos.esalq.usp.br/author/jessica-fernanda-mendes/avatar_hu_e4b22e8c93fc067f.jpeg</url>
+      <url>https://genomicslabesalq.github.io/author/jessica-fernanda-mendes/avatar_hu_e4b22e8c93fc067f.jpeg</url>
       <title>Jéssica Fernanda Mendes</title>
-      <link>amos.esalq.usp.br/author/jessica-fernanda-mendes/</link>
+      <link>https://genomicslabesalq.github.io/author/jessica-fernanda-mendes/</link>
     </image>
     
     <item>
       <title>Jéssica Fernanda Mendes</title>
-      <link>amos.esalq.usp.br/author/jessica-fernanda-mendes/</link>
+      <link>https://genomicslabesalq.github.io/author/jessica-fernanda-mendes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/author/jessica-fernanda-mendes/</guid>
+      <guid>https://genomicslabesalq.github.io/author/jessica-fernanda-mendes/</guid>
       <description>&lt;p&gt;I am a Biologist with a Master&amp;rsquo;s degree and currently a PhD candidate in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP), complemented by an MBA in Agribusiness. My research focuses on the functional analysis of pathogen effectors, utilizing techniques like protein-protein interaction assays to study disease mechanisms in sugarcane.&lt;/p&gt;
 </description>
     </item>

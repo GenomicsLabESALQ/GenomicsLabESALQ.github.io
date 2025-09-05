@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Genomics Lab</title>
-    <link>amos.esalq.usp.br/categories/</link>
-      <atom:link href="amos.esalq.usp.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/categories/</link>
+      <atom:link href="https://genomicslabesalq.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Categories</title>
-      <link>amos.esalq.usp.br/categories/</link>
+      <link>https://genomicslabesalq.github.io/categories/</link>
     </image>
     
   </channel>

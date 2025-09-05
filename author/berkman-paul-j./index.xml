@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berkman, Paul J. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/berkman-paul-j./</link>
-      <atom:link href="amos.esalq.usp.br/author/berkman-paul-j./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/berkman-paul-j./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/berkman-paul-j./index.xml" rel="self" type="application/rss+xml" />
     <description>Berkman, Paul J.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Berkman, Paul J.</title>
-      <link>amos.esalq.usp.br/author/berkman-paul-j./</link>
+      <link>https://genomicslabesalq.github.io/author/berkman-paul-j./</link>
     </image>
     
     <item>
       <title>Complete Genome Sequence of Sporisorium scitamineum and Biotrophic Interaction Transcriptome with Sugarcane</title>
-      <link>amos.esalq.usp.br/publication/taniguti_2015/</link>
+      <link>https://genomicslabesalq.github.io/publication/taniguti_2015/</link>
       <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/taniguti_2015/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/taniguti_2015/</guid>
       <description></description>
     </item>
     

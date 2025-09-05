@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carneiro, Monalisa Sampaio | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/carneiro-monalisa-sampaio/</link>
-      <atom:link href="amos.esalq.usp.br/author/carneiro-monalisa-sampaio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/carneiro-monalisa-sampaio/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/carneiro-monalisa-sampaio/index.xml" rel="self" type="application/rss+xml" />
     <description>Carneiro, Monalisa Sampaio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Carneiro, Monalisa Sampaio</title>
-      <link>amos.esalq.usp.br/author/carneiro-monalisa-sampaio/</link>
+      <link>https://genomicslabesalq.github.io/author/carneiro-monalisa-sampaio/</link>
     </image>
     
     <item>
       <title>Time-series expression profiling of sugarcane leaves infected with Puccinia kuehnii reveals an ineffective defense system leading to susceptibility</title>
-      <link>amos.esalq.usp.br/publication/correr_timeseries_2020/</link>
+      <link>https://genomicslabesalq.github.io/publication/correr_timeseries_2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/correr_timeseries_2020/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/correr_timeseries_2020/</guid>
       <description></description>
     </item>
     

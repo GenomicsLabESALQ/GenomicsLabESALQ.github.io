@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joyce Dellavechia Ferreti | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/joyce-dellavechia-ferreti/</link>
-      <atom:link href="amos.esalq.usp.br/author/joyce-dellavechia-ferreti/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/joyce-dellavechia-ferreti/</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/joyce-dellavechia-ferreti/index.xml" rel="self" type="application/rss+xml" />
     <description>Joyce Dellavechia Ferreti</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>amos.esalq.usp.br/author/joyce-dellavechia-ferreti/avatar_hu_aa59450801823625.jpeg</url>
+      <url>https://genomicslabesalq.github.io/author/joyce-dellavechia-ferreti/avatar_hu_aa59450801823625.jpeg</url>
       <title>Joyce Dellavechia Ferreti</title>
-      <link>amos.esalq.usp.br/author/joyce-dellavechia-ferreti/</link>
+      <link>https://genomicslabesalq.github.io/author/joyce-dellavechia-ferreti/</link>
     </image>
     
     <item>
       <title>Joyce Dellavechia Ferreti</title>
-      <link>amos.esalq.usp.br/author/joyce-dellavechia-ferreti/</link>
+      <link>https://genomicslabesalq.github.io/author/joyce-dellavechia-ferreti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/author/joyce-dellavechia-ferreti/</guid>
+      <guid>https://genomicslabesalq.github.io/author/joyce-dellavechia-ferreti/</guid>
       <description>&lt;p&gt;Currently, she is a PhD candidate in Plant Pathology at ESALQ/USP, where she investigates the genetic and ecological basis of plant–pathogen–microbiome interactions in sugarcane. Her research integrates multi-omics approaches, including metagenomics and transcriptomics, to understand how plant genotype and soil type modulate microbial communities and influence plant health. Joyce also has experience with molecular biology, microbiome data analysis, and functional microbial ecology, combining field experiments, greenhouse trials, and bioinformatics.&lt;/p&gt;
 </description>
     </item>

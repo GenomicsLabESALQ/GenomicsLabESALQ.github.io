@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teixeira-Silva, Natalia S. | Genomics Lab</title>
-    <link>amos.esalq.usp.br/author/teixeira-silva-natalia-s./</link>
-      <atom:link href="amos.esalq.usp.br/author/teixeira-silva-natalia-s./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://genomicslabesalq.github.io/author/teixeira-silva-natalia-s./</link>
+      <atom:link href="https://genomicslabesalq.github.io/author/teixeira-silva-natalia-s./index.xml" rel="self" type="application/rss+xml" />
     <description>Teixeira-Silva, Natalia S.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <url>https://genomicslabesalq.github.io/media/logo_hu_cf4689c325777f3a.png</url>
       <title>Teixeira-Silva, Natalia S.</title>
-      <link>amos.esalq.usp.br/author/teixeira-silva-natalia-s./</link>
+      <link>https://genomicslabesalq.github.io/author/teixeira-silva-natalia-s./</link>
     </image>
     
     <item>
       <title>Comparative Genomics of Smut Pathogens: Insights From Orphans and Positively Selected Genes Into Host Specialization</title>
-      <link>amos.esalq.usp.br/publication/benevenuto_comparative_2018/</link>
+      <link>https://genomicslabesalq.github.io/publication/benevenuto_comparative_2018/</link>
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>amos.esalq.usp.br/publication/benevenuto_comparative_2018/</guid>
+      <guid>https://genomicslabesalq.github.io/publication/benevenuto_comparative_2018/</guid>
       <description></description>
     </item>
     
