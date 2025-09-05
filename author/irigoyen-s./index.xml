@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Irigoyen, S. | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/irigoyen-s./</link>
+      <atom:link href="amos.esalq.usp.br/author/irigoyen-s./index.xml" rel="self" type="application/rss+xml" />
+    <description>Irigoyen, S.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Irigoyen, S.</title>
+      <link>amos.esalq.usp.br/author/irigoyen-s./</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide characterization of alternative splicing patterns in sugarcane modulated during infection with smut pathogen, Sporisorium scitamineum</title>
+      <link>amos.esalq.usp.br/publication/monteirovitorell0_2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/monteirovitorell0_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

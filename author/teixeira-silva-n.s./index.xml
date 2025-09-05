@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teixeira-Silva, N.S. | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/teixeira-silva-n.s./</link>
+      <atom:link href="amos.esalq.usp.br/author/teixeira-silva-n.s./index.xml" rel="self" type="application/rss+xml" />
+    <description>Teixeira-Silva, N.S.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Teixeira-Silva, N.S.</title>
+      <link>amos.esalq.usp.br/author/teixeira-silva-n.s./</link>
+    </image>
+    
+    <item>
+      <title>Differential responses of genes and enzymes associated with ROS protective responses in the sugarcane smut fungus</title>
+      <link>amos.esalq.usp.br/publication/peters_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/peters_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

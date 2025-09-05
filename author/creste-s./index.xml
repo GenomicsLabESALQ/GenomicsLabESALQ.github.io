@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creste, S. | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/creste-s./</link>
+      <atom:link href="amos.esalq.usp.br/author/creste-s./index.xml" rel="self" type="application/rss+xml" />
+    <description>Creste, S.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Creste, S.</title>
+      <link>amos.esalq.usp.br/author/creste-s./</link>
+    </image>
+    
+    <item>
+      <title>Molecular, biochemical and metabolomics analyses reveal constitutive and pathogen-induced defense responses of two sugarcane contrasting genotypes against leaf scald disease</title>
+      <link>amos.esalq.usp.br/publication/bini_molecular_2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/bini_molecular_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential responses of genes and enzymes associated with ROS protective responses in the sugarcane smut fungus</title>
+      <link>amos.esalq.usp.br/publication/peters_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/peters_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing early resistance responses of sugarcane to Xanthomonas albilineans</title>
+      <link>amos.esalq.usp.br/publication/monteirovitorello_20191/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/monteirovitorello_20191/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sporisorium scitamineum colonisation of sugarcane genotypes susceptible and resistant to smut revealed by GFP</title>
+      <link>amos.esalq.usp.br/publication/carvalho_sporisorium_2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/carvalho_sporisorium_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

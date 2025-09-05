@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vieira, Maria Lucia Carneiro | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/vieira-maria-lucia-carneiro/</link>
+      <atom:link href="amos.esalq.usp.br/author/vieira-maria-lucia-carneiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vieira, Maria Lucia Carneiro</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Vieira, Maria Lucia Carneiro</title>
+      <link>amos.esalq.usp.br/author/vieira-maria-lucia-carneiro/</link>
+    </image>
+    
+    <item>
+      <title>First investigation into the genetic control of meiosis in sugarcane</title>
+      <link>amos.esalq.usp.br/publication/reis_soares_2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/reis_soares_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sugarcane smut: shedding light on the development of the whip-shaped sorus</title>
+      <link>amos.esalq.usp.br/publication/marques_2016/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/marques_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

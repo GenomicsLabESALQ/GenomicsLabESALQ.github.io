@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University of São Paulo, Brazil | Genomics Lab</title>
+    <link>//localhost:1313/author/university-of-sao-paulo-brazil/</link>
+      <atom:link href="//localhost:1313/author/university-of-sao-paulo-brazil/index.xml" rel="self" type="application/rss+xml" />
+    <description>University of São Paulo, Brazil</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>University of São Paulo, Brazil</title>
+      <link>//localhost:1313/author/university-of-sao-paulo-brazil/</link>
+    </image>
+    
+    <item>
+      <title>Progress in understanding fungal diseases affecting sugarcane: smut</title>
+      <link>//localhost:1313/publication/university_2018/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/university_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

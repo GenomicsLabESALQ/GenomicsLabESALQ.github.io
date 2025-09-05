@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silva, H. R. V. | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/silva-h.-r.-v./</link>
+      <atom:link href="amos.esalq.usp.br/author/silva-h.-r.-v./index.xml" rel="self" type="application/rss+xml" />
+    <description>Silva, H. R. V.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Silva, H. R. V.</title>
+      <link>amos.esalq.usp.br/author/silva-h.-r.-v./</link>
+    </image>
+    
+    <item>
+      <title>Assessing early resistance responses of sugarcane to Xanthomonas albilineans</title>
+      <link>amos.esalq.usp.br/publication/monteirovitorello_20191/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/monteirovitorello_20191/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carvalho, Giselle | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/carvalho-giselle/</link>
+      <atom:link href="amos.esalq.usp.br/author/carvalho-giselle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carvalho, Giselle</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Carvalho, Giselle</title>
+      <link>amos.esalq.usp.br/author/carvalho-giselle/</link>
+    </image>
+    
+    <item>
+      <title>Complete Chromosome-Scale Genome Sequence Resource for Sporisorium panici-leucophaei , the Causal Agent of Sourgrass Smut Disease</title>
+      <link>amos.esalq.usp.br/publication/crestana_2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/crestana_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional analysis of oxidative burst in sugarcane smut-resistant and -susceptible genotypes</title>
+      <link>amos.esalq.usp.br/publication/peters_2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/peters_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular variability and genetic relationship among Brazilian strains of the sugarcane smut fungus</title>
+      <link>amos.esalq.usp.br/publication/benevenuto_molecular_2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/benevenuto_molecular_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete Genome Sequence of Sporisorium scitamineum and Biotrophic Interaction Transcriptome with Sugarcane</title>
+      <link>amos.esalq.usp.br/publication/taniguti_2015/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/taniguti_2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

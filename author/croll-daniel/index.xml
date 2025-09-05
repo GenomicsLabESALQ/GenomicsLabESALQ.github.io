@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Croll, Daniel | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/croll-daniel/</link>
+      <atom:link href="amos.esalq.usp.br/author/croll-daniel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Croll, Daniel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Croll, Daniel</title>
+      <link>amos.esalq.usp.br/author/croll-daniel/</link>
+    </image>
+    
+    <item>
+      <title>Comparative Genomics of Smut Pathogens: Insights From Orphans and Positively Selected Genes Into Host Specialization</title>
+      <link>amos.esalq.usp.br/publication/benevenuto_comparative_2018/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/benevenuto_comparative_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

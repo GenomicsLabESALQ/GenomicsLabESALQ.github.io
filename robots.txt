@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: amos.esalq.usp.br/sitemap.xml

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santos, Ricardo F. | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/santos-ricardo-f./</link>
+      <atom:link href="amos.esalq.usp.br/author/santos-ricardo-f./index.xml" rel="self" type="application/rss+xml" />
+    <description>Santos, Ricardo F.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Santos, Ricardo F.</title>
+      <link>amos.esalq.usp.br/author/santos-ricardo-f./</link>
+    </image>
+    
+    <item>
+      <title>Multiple resistance of Plasmopara viticola to QoI and CAA fungicides in Brazil</title>
+      <link>amos.esalq.usp.br/publication/santos_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/santos_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

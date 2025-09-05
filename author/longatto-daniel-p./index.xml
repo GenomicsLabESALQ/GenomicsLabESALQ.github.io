@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Longatto, Daniel P. | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/longatto-daniel-p./</link>
+      <atom:link href="amos.esalq.usp.br/author/longatto-daniel-p./index.xml" rel="self" type="application/rss+xml" />
+    <description>Longatto, Daniel P.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Longatto, Daniel P.</title>
+      <link>amos.esalq.usp.br/author/longatto-daniel-p./</link>
+    </image>
+    
+    <item>
+      <title>Molecular variability and genetic relationship among Brazilian strains of the sugarcane smut fungus</title>
+      <link>amos.esalq.usp.br/publication/benevenuto_molecular_2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/benevenuto_molecular_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

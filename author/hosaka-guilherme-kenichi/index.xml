@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hosaka, Guilherme Kenichi | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/hosaka-guilherme-kenichi/</link>
+      <atom:link href="amos.esalq.usp.br/author/hosaka-guilherme-kenichi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hosaka, Guilherme Kenichi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Hosaka, Guilherme Kenichi</title>
+      <link>amos.esalq.usp.br/author/hosaka-guilherme-kenichi/</link>
+    </image>
+    
+    <item>
+      <title>Time-series expression profiling of sugarcane leaves infected with Puccinia kuehnii reveals an ineffective defense system leading to susceptibility</title>
+      <link>amos.esalq.usp.br/publication/correr_timeseries_2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/correr_timeseries_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

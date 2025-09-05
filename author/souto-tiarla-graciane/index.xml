@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Souto, Tiarla Graciane | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/souto-tiarla-graciane/</link>
+      <atom:link href="amos.esalq.usp.br/author/souto-tiarla-graciane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Souto, Tiarla Graciane</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Souto, Tiarla Graciane</title>
+      <link>amos.esalq.usp.br/author/souto-tiarla-graciane/</link>
+    </image>
+    
+    <item>
+      <title>A Bacterial Type Three Secretion-Based Delivery System for Functional Characterization of Sporisorium scitamineum Plant Immune Suppressing Effector Proteins</title>
+      <link>amos.esalq.usp.br/publication/maia_2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/maia_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

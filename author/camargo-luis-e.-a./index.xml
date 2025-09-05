@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camargo, Luís E. A. | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/camargo-luis-e.-a./</link>
+      <atom:link href="amos.esalq.usp.br/author/camargo-luis-e.-a./index.xml" rel="self" type="application/rss+xml" />
+    <description>Camargo, Luís E. A.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Camargo, Luís E. A.</title>
+      <link>amos.esalq.usp.br/author/camargo-luis-e.-a./</link>
+    </image>
+    
+    <item>
+      <title>Genome survey of resistance gene analogs in sugarcane: genomic features and differential expression of the innate immune system from a smut-resistant genotype</title>
+      <link>amos.esalq.usp.br/publication/rody_2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/rody_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

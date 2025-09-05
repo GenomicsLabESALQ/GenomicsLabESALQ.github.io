@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Genomics Lab</title>
+    <link>amos.esalq.usp.br/post/</link>
+      <atom:link href="amos.esalq.usp.br/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Latest News</title>
+      <link>amos.esalq.usp.br/post/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptional responses of sugarcane varieties to Pratylenchus zeae infection</title>
+      <link>amos.esalq.usp.br/post/25-09-03-preprint_confort/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/post/25-09-03-preprint_confort/</guid>
+      <description>&lt;p&gt;New preprint from our group now available on bioRxiv! Check out the abstract in this post.&lt;/p&gt;
+&lt;p&gt;Our group has just published a preprint on August 30th presenting novel results on the transcriptional responses of two sugarcane varieties to infection by the nematode Pratylenchus zeae. The work is now available on bioRxiv!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The root-lesion nematode Pratylenchus zeae ranks among the most pervasive soilborne threats to global sugarcane (Saccharum spp.) production, however, the molecular basis of host resistance to this pathogen remains largely unexplored. Using comparative transcriptomics 15 days after inoculation, we profiled root response patterns of a resistant cultivar (RB966982) and a susceptible cultivar (CTC9001). Differential gene expression analysis identified 3,385 DEGs (1,426 up, 1,959 down) in the susceptible CTC9001 and 8,689 DEGs (5,334 up, 3,355 down) in the resistant RB966982 when comparing control and inoculated plants, revealing distinct genotype-specific defense strategies. The resistant genotype mounted a coordinated, multilayered defense marked by dramatic transcriptional reprogramming, including intensified glycolysis and fatty-acid biosynthesis, elevated oxidoreductase/ROS activity, and concurrent activation of jasmonic and salicylic acid associated pathways, with strong induction of multiple PR1 homologs. RB966982 also showed pre-primed and inducible resistance gene analogs and targeted cell-wall reinforcement through xyloglucan fucosylation. By contrast, CTC9001 displayed a delayed or attenuated response characterized by cell-proliferation signatures and broad activation of callose-related defenses (1,3-β-D-glucan synthesis) that appear insufficient to limit nematode progression. GO enrichment analysis revealed that the resistant response was dominated by biological processes linked to carbohydrate and lipid metabolism, oxidoreductase activity, hormone signaling, and cell-wall organization, while the susceptible response was enriched in stress-related pathways lacking coordinated metabolic and structural reinforcement. Collectively, these findings indicate that durable resistance to P. zeae is unlikely to arise from a single mechanism, effective protection will require stacking complementary defense layers, including early metabolic reprogramming, robust hormone-mediated signaling, and reinforced cell-wall barriers. The candidate RGAs, PR1 homologs, and cell-wall remodeling enzymes identified here, together with the GO-enriched pathways, provide concrete targets for marker-assisted breeding and gene editing strategies aimed at developing sugarcane cultivars with durable nematode resistance.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

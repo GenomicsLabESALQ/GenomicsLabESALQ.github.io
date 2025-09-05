@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | Genomics Lab</title>
+    <link>amos.esalq.usp.br/tag/article/</link>
+      <atom:link href="amos.esalq.usp.br/tag/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Article</title>
+      <link>amos.esalq.usp.br/tag/article/</link>
+    </image>
+    
+    <item>
+      <title>Multilayered Defense Responses in Sugarcane Against Pratylenchus zeae Revealed by Comparative Transcriptomics</title>
+      <link>amos.esalq.usp.br/publication/confort_multilayered_2025/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/confort_multilayered_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Multi-Omics Analysis Reveals Stress-Specific Molecular Architectures in Soybean under Drought and Rust Infection</title>
+      <link>amos.esalq.usp.br/publication/husein_2025_1/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/husein_2025_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updated chromosome-level genome assembly of Sporisorium scitamineum with improved accuracy and completeness</title>
+      <link>amos.esalq.usp.br/publication/taniguti_2025/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/taniguti_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome Profiling of Resistance Genes Analogs in Soybean’s Cross-Tolerance to Water Limitation and Rust Stress</title>
+      <link>amos.esalq.usp.br/publication/husein_20252/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/husein_20252/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Limitation Causes Early-Stage Metabolic Perturbation in the Interaction of Soybean and the Causal Agent of Asian Soybean Rust</title>
+      <link>amos.esalq.usp.br/publication/castro-moretti_water_2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/castro-moretti_water_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creste, S | Genomics Lab</title>
+    <link>amos.esalq.usp.br/author/creste-s/</link>
+      <atom:link href="amos.esalq.usp.br/author/creste-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Creste, S</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>amos.esalq.usp.br/media/logo_hu_cf4689c325777f3a.png</url>
+      <title>Creste, S</title>
+      <link>amos.esalq.usp.br/author/creste-s/</link>
+    </image>
+    
+    <item>
+      <title>Multilayered Defense Responses in Sugarcane Against Pratylenchus zeae Revealed by Comparative Transcriptomics</title>
+      <link>amos.esalq.usp.br/publication/confort_multilayered_2025/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>amos.esalq.usp.br/publication/confort_multilayered_2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
