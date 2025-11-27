@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bianca Ribeiro | Genomics Lab</title>
-    <link>https://genomicslabesalq.github.io/author/bianca-ribeiro/</link>
-      <atom:link href="https://genomicslabesalq.github.io/author/bianca-ribeiro/index.xml" rel="self" type="application/rss+xml" />
-    <description>Bianca Ribeiro</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>https://genomicslabesalq.github.io/author/bianca-ribeiro/avatar_hu_88839616dc82aa2b.jpeg</url>
-      <title>Bianca Ribeiro</title>
-      <link>https://genomicslabesalq.github.io/author/bianca-ribeiro/</link>
-    </image>
-    
-    <item>
-      <title>Bianca Ribeiro</title>
-      <link>https://genomicslabesalq.github.io/author/bianca-ribeiro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://genomicslabesalq.github.io/author/bianca-ribeiro/</guid>
-      <description>&lt;p&gt;I began my scientific career at CEBTEC/ESALQ, where I carried out undergraduate research and a master’s degree in molecular biology, studying hormonal peptides related to plant development. In 2015, I moved to Belgium for my PhD, focusing on plant specialized metabolites. Shortly after, I pursued a postdoctoral fellowship in the area of plant-microbe interactions. All these experiences provided me with significant personal and professional growth.&lt;/p&gt;
-&lt;p&gt;I returned to Brazil at the end of 2023 with the goal of studying plant diseases and further developing my skills in bioinformatics. In 2024, I started a postdoctoral position in Professor Claudia’s lab, investigating sugarcane smut disease. In 2025, I was awarded a CNPq fellowship as a collaborating researcher, which allows me to integrate metabolomic analyses of smut disease development with structural studies of pathogen effectors.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bianca Ribeiro | Genomics Lab</title><link>https://genomicslabesalq.github.io/author/bianca-ribeiro/</link><atom:link href="https://genomicslabesalq.github.io/author/bianca-ribeiro/index.xml" rel="self" type="application/rss+xml"/><description>Bianca Ribeiro</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://genomicslabesalq.github.io/author/bianca-ribeiro/avatar_hu_88839616dc82aa2b.jpeg</url><title>Bianca Ribeiro</title><link>https://genomicslabesalq.github.io/author/bianca-ribeiro/</link></image><item><title>Bianca Ribeiro</title><link>https://genomicslabesalq.github.io/author/bianca-ribeiro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://genomicslabesalq.github.io/author/bianca-ribeiro/</guid><description>&lt;p&gt;I began my scientific career at CEBTEC/ESALQ, where I carried out undergraduate research and a master’s degree in molecular biology, studying hormonal peptides related to plant development. In 2015, I moved to Belgium for my PhD, focusing on plant specialized metabolites. Shortly after, I pursued a postdoctoral fellowship in the area of plant-microbe interactions. All these experiences provided me with significant personal and professional growth.&lt;/p&gt;
+&lt;p&gt;I returned to Brazil at the end of 2023 with the goal of studying plant diseases and further developing my skills in bioinformatics. In 2024, I started a postdoctoral position in Professor Claudia’s lab, investigating sugarcane smut disease. In 2025, I was awarded a CNPq fellowship as a collaborating researcher, which allows me to integrate metabolomic analyses of smut disease development with structural studies of pathogen effectors.&lt;/p&gt;</description></item></channel></rss>

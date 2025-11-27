@@ -53,7 +53,7 @@ collections:
       name: icon_pack
       options:
       - label: None
-        value: ""
+        value: ''
       - label: Solid
         value: fas
       - label: Regular
@@ -63,7 +63,7 @@ collections:
       - label: Academic
         value: ai
       widget: select
-    - label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)
+    - label: 'Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)'
       name: icon
       widget: string
     - label: Label (tooltip)
@@ -201,8 +201,7 @@ collections:
       required: false
       widget: string
     - default: Smart
-      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight,
-        Left, Right, BottomLeft, Bottom, BottomRight.
+      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
       name: focal_point
       required: false
       widget: string
@@ -264,7 +263,7 @@ collections:
     name: categories
     required: false
     widget: list
-  - label: External link (optional - replaces link to project page)
+  - label: 'External link (optional - replaces link to project page)'
     name: external_link
     required: false
     widget: string
@@ -281,7 +280,7 @@ collections:
       name: icon_pack
       options:
       - label: None
-        value: ""
+        value: ''
       - label: Solid
         value: fas
       - label: Regular
@@ -292,7 +291,7 @@ collections:
         value: ai
       required: false
       widget: select
-    - label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)
+    - label: 'Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)'
       name: icon
       required: false
       widget: string
@@ -318,8 +317,7 @@ collections:
       required: false
       widget: string
     - default: Smart
-      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight,
-        Left, Right, BottomLeft, Bottom, BottomRight.
+      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
       name: focal_point
       required: false
       widget: string
@@ -353,7 +351,7 @@ collections:
   - label: From
     name: date
     widget: datetime
-  - default: ""
+  - default: ''
     label: To
     name: date_end
     widget: datetime
@@ -374,7 +372,7 @@ collections:
       name: icon_pack
       options:
       - label: None
-        value: ""
+        value: ''
       - label: Solid
         value: fas
       - label: Regular
@@ -385,7 +383,7 @@ collections:
         value: ai
       required: false
       widget: select
-    - label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)
+    - label: 'Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)'
       name: icon
       required: false
       widget: string
@@ -450,8 +448,7 @@ collections:
       required: false
       widget: string
     - default: Smart
-      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight,
-        Left, Right, BottomLeft, Bottom, BottomRight.
+      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
       name: focal_point
       required: false
       widget: string
@@ -578,8 +575,7 @@ collections:
       required: false
       widget: string
     - default: Smart
-      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight,
-        Left, Right, BottomLeft, Bottom, BottomRight.
+      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
       name: focal_point
       required: false
       widget: string
@@ -636,7 +632,7 @@ collections:
     widget: list
   - fields:
     - default: black
-      label: Theme (see https://github.com/hakimel/reveal.js#theming)
+      label: 'Theme (see https://github.com/hakimel/reveal.js#theming)'
       name: theme
       required: false
       widget: string
@@ -662,8 +658,7 @@ collections:
       required: false
       widget: string
     - default: Smart
-      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight,
-        Left, Right, BottomLeft, Bottom, BottomRight.
+      label: Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
       name: focal_point
       required: false
       widget: string
